@@ -1,0 +1,8 @@
+Perturbation summary (base image vs perturbed variant)
+
+Brightness +16: n=6, mean=0.420899, std=0.208217, min=0.000000, max=0.544922
+Blur r=1: n=6, mean=0.244141, std=0.267719, min=0.000000, max=0.509766
+1-pixel flip: n=6, mean=0.507813, std=0.025285, min=0.457031, max=0.523438
+15x15 patch flip: n=6, mean=0.505859, std=0.023274, min=0.468750, max=0.535156
+Rotate 90 deg: n=6, mean=0.330404, std=0.257037, min=0.000000, max=0.527344
+Shift 1 px: n=6, mean=0.433919, std=0.212840, min=0.000000, max=0.533203

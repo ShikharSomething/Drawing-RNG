@@ -1,0 +1,2 @@
+The aim of this test is to determine if the same input image gives the same output, that is the algorithm is deterministic.
+Test Result - Passed

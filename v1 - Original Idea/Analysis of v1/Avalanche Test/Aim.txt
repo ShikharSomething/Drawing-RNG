@@ -1,0 +1,2 @@
+The aim of this test is to measure the sensitivity of the algorithm to small changes in the input image.
+Test Results - The avalanche test was a partial pass, showing ~50% hamming distance ratios in (strong results) in pixel transformations and low hamming distance ratios (~20-30%) in blur, rotation, etc changes. These low ratios could be because the image did not change at all because of the transformation, for example: a rotation in an all white or all black image does not make any difference at all. Overall the test can be considered a pass.
